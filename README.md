@@ -1,15 +1,17 @@
 👋 Hi, I’m Dominik Malý;
 - 💜 I have been working with Arduino and Unity Editor for 3-4 years, but I used PlasticSCM. After completing the C++ course, I moved here. 💜;
-- 🔭 I’m currently importing all my work to GitHub.. Beside my Unity project i will start some C++ fun projects;
-- ! Cyber Clicker 2.0 (private);
-- -!
- 
+- 🔭 I’m currently importing all my work to GitHub.. Beside my Unity project i will start some C++ fun projects; 
 - 👀 I’m interested in programming and game development. Currently, I work as a construction worker;
 - 🌱 I have learned Arduino, C# Unity (also Blender) and im currently learning C++ (Finished GOPAS basic course) and looking forward at next OOP course;
 - 🌱 Next, I plan to learn Python as well 💜;
 - 👯 Open to collaborations that push my boundaries and opportunities that fuel my growth in the IT industry;
 - 📫 Aside from my passion for coding, I enjoy books about astronomy and rocket science 💜;
 
+Here are my projects and programming experience:
+Actual: Cyber Clicker 2.0 (private);
+Actual:
+
+Finished:
 
 <!--
 **MalejG/MalejG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
