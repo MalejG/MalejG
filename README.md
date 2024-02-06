@@ -1,5 +1,5 @@
 l👋 Hi, I’m Dominik Malý;
-- 💜 I have been working with Arduino and Unity Editor for 3-4 years. After completing the C++ course, I moved here on Github. 💜;
+- 💜 I have been working with Arduino and Unity Editor for few years. After completing the C++ course, I moved here on Github. 💜;
 - 🔭 Beside my Unity project i will start some C++ fun projects; 
 - 👀 I’m interested in programming and game development. Currently, I work as a construction worker;
 - 🌱 I have learned Arduino, C# Unity (also Blender) and im currently learning C++ (Finished GOPAS basic course) and looking forward at next OOP course;
