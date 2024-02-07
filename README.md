@@ -9,8 +9,8 @@ l👋 Hi, I’m Dominik Malý;
 - 📫 Connect with me on LinkedIn: .
 
 Here are my projects and programming experience:
-- Actual: Cyber Clicker 2.0 (PlasticSCM);
-- Actual:
+- Actual: Cyber Clicker 2.0 (PlasticSCM(Private Version Control));
+- Actual: Cosmic Velocity Calculator;
 
 Finished:
 
