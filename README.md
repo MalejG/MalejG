@@ -6,7 +6,7 @@ l👋 Hi, I’m Dominik Malý;
 - 🌱 Next, I plan to learn Python as well 💜;
 - 👯 Open to collaborations that push my boundaries and opportunities that fuel my growth in the IT industry;
 - ⚡ Aside from my passion for coding, I enjoy books about astronomy and rocket science 💜;
-- 📫 Connect with me on LinkedIn: .
+- 📫 Connect with me on LinkedIn: http://linkedin.com/in/dominik-malý-0520a826a
 
 Here are my projects and programming experience:
 - Actual: Cyber Clicker 2.0 (PlasticSCM(Private Version Control));
