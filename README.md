@@ -10,13 +10,22 @@ l👋 Hi, I’m Dominik Malý;
 
 Here are my projects and programming experience:
 - Actual: Cyber Clicker 2.0 (PlasticSCM(Private Version Control));
-- Actual: Cosmic Velocity Calculator;
+- Actual: Solar System Creator
 
-Finished:
 
 
 <!--
+Solar System Creator - cinder a C++ mazani a pridavani vesmirnych objektu. navazovani
 
+next
+
+Astronomy Diary - jednoduchu lehky astronomicky denik. ktery ma zakladni kataloz rozdeleni vesmirnych objektu. vhodne na pozorovani..
+
+
+//
+
+
+OrbitCraft - solar system 
 
 - Next: Data from space compare by algorythms. Play with Big O notation;
 
