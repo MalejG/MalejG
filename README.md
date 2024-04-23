@@ -24,6 +24,10 @@ Cyber Clicker 2.0
 https://github.com/MalejG/MalejG/assets/48876537/637ed132-e5ec-49e3-9d2c-299733ddc527
 
 
+My first Game that i uploaded to Google play. Nobody was playing it so i shut it down. :D
+https://github.com/MalejG/MalejG/assets/48876537/05ce87e7-8fc2-449e-b1fd-ecacf1d7d8f6
+
+
 
 <!--
 Solar System Creator - cinder a C++ mazani a pridavani vesmirnych objektu. navazovani
