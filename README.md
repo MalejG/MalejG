@@ -18,10 +18,10 @@ Cyber Clicker 2.0
 
  Clicker Game, where you manage hardworking robots dedicated to work for you. Your task is to manage and upgrade these robots while navigating through various challenges, including interstellar travel to explore new meteors.
 
- ![Screenshot 2024-04-23 094951](https://github.com/MalejG/MalejG/assets/48876537/4de09d82-de5c-4b69-9b45-79f87851470f)
 
+![output-onlinepngtools](https://github.com/MalejG/MalejG/assets/48876537/65864810-7658-4db1-a0e1-d5f2066514a6)
 
-
+https://github.com/MalejG/MalejG/assets/48876537/637ed132-e5ec-49e3-9d2c-299733ddc527
 
 
 
