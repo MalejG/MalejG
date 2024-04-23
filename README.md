@@ -25,7 +25,9 @@ https://github.com/MalejG/MalejG/assets/48876537/637ed132-e5ec-49e3-9d2c-299733d
 
 
 My first Game that i uploaded to Google play. Nobody was playing it so i shut it down. :D
-https://github.com/MalejG/MalejG/assets/48876537/05ce87e7-8fc2-449e-b1fd-ecacf1d7d8f6
+
+https://github.com/MalejG/MalejG/assets/48876537/e1f2413e-354d-4079-b587-87816844f319
+
 
 
 
