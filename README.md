@@ -17,8 +17,8 @@ Here are my projects and programming experience:
 Cyber Clicker 2.0
 
  Clicker Game, where you manage hardworking robots dedicated to work for you. Your task is to manage and upgrade these robots while navigating through various challenges, including interstellar travel to explore new meteors.
-[Screenshot 2024-04-23 094951](https://github.com/MalejG/MalejG/assets/48876537/b3dc854f-0c7f-4cd7-b7d5-d167a7ca74b7)
 
+ ![Screenshot 2024-04-23 094951](https://github.com/MalejG/MalejG/assets/48876537/4de09d82-de5c-4b69-9b45-79f87851470f)
 
 
 
