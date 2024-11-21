@@ -1,15 +1,15 @@
 l👋 Hi, I’m Dominik Malý;
 - 💜 I have been working with Arduino and Unity Editor for few years. After completing the C++ course, I moved here on Github. 💜;
 - 🔭 Beside my Unity project i will start some C++ fun projects; 
-- 👀 I’m interested in programming. Currently, I work as a construction worker;
+- 👀 I’m interested in programming. Currently, I work as a software developer;
 - 🌱 I have learned Arduino, C# Unity (also Blender) and im currently learning C++ (Finished GOPAS basic an OOP course);
 - 👯 Open to collaborations that push my boundaries and opportunities that fuel my growth in the IT industry;
 - ⚡ Aside from my passion for coding, I enjoy books about astronomy 💜;
 - 📫 Connect with me on LinkedIn: http://linkedin.com/in/dominik-malý-0520a826a
 
 Here are my projects and programming experience:
-- Actual: Cyber Clicker 2.0 (PlasticSCM(Private Version Control));
-- Actual: Solar System Creator
+- Actual: Cyber Clicker 2.0 ;
+- Actual: Solar System Creator;
 
 
 
