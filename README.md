@@ -1,15 +1,11 @@
 l👋 Hi, I’m Dominik Malý;
-- 💜 I have been working with Arduino and Unity Editor for few years. After completing the C++ course, I moved here on Github. 💜;
-- 🔭 Beside my Unity project i will start some C++ fun projects; 
+- 💜 I have been working with Arduino and Unity Editor for few years. Then started with C++;
 - 👀 I’m interested in programming. Currently, I work as a software developer;
-- 🌱 I have learned Arduino, C# Unity (also Blender) and im currently learning C++ (Finished GOPAS basic an OOP course);
-- 👯 Open to collaborations that push my boundaries and opportunities that fuel my growth in the IT industry;
-- ⚡ Aside from my passion for coding, I enjoy books about astronomy 💜;
+- 🌱 I've learned Arduino, C# Unity (also Blender), C++, and am currently working with Delphi;
+- ⚡ I enjoy books about astronomy;
 - 📫 Connect with me on LinkedIn: http://linkedin.com/in/dominik-malý-0520a826a
 
 Here are my projects and programming experience:
-- Actual: Cyber Clicker 2.0 ;
-- Actual: Solar System Creator;
 
 
 
@@ -32,8 +28,12 @@ https://github.com/MalejG/MalejG/assets/48876537/e1f2413e-354d-4079-b587-8781684
 
 <!--
 Solar System Creator - cinder a C++ mazani a pridavani vesmirnych objektu. navazovani
-
+- 🔭 Beside my Unity project i will start some C++ fun projects; 
 next!
+
+- Actual: Cyber Clicker 2.0 ;
+- Actual: Solar System Creator;
+
 
 
 Astronomy Diary - jednoduchu lehky astronomicky denik. ktery ma zakladni kataloz rozdeleni vesmirnych objektu. vhodne na pozorovani..
